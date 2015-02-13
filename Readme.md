@@ -30,5 +30,4 @@ Spanish
 Acciones para cortar imagenes
   - Descargar workflow.atn
   - Doble click para cargar las acciones
-  - Activar con el boton F9
-  - 
+  - Activar con tecla F9
