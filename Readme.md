@@ -8,10 +8,11 @@ Actions for Cut image
   - F9 for activate
   - Activate mode Button
 
-For save new acctions
+For save new actions
   - Menu options > Deactivate Button Mode
   
 Usage
+
 #### Layer object to asset png
   - Click on the object or layer object
   - Press action "Copy to PNG"

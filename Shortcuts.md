@@ -1,7 +1,7 @@
 PSD Shortcut
 =========
 
-### Keyboard shortcuts save us time 
+### Keyboard shortcuts that save us time 
 
 
 Set select cursor by default
@@ -9,6 +9,7 @@ Set select cursor by default
 to
 
 Normal Shortcuts:
+
 Open File(s):  
  
 <kbd> Ctrl + O </kbd>
