@@ -11,81 +11,83 @@ to
 Normal Shortcuts:
 Open File(s):  
  
- - Ctrl + O
+<kbd> Ctrl + O </kbd>
 
- - CMD + O
+<kbd> CMD + O </kbd>
 
 
 Hidden Extras:  
  
- - Ctrl + H
+<kbd> Ctrl + H </kbd>
 
- - CMD + H
+<kbd> CMD + H </kbd>
 
 
 Cursor:  
  
- - V
+<kbd> V </kbd>
 
 
 Slice:  
  
 
- - C
-change to slice: 
-SHIFT + C
+<kbd> C </kbd>
+
+Change to slice: 
+
+<kbd> SHIFT + C </kbd>
 
 
 Zoom 100%:  
  
- - CTRL + 1
+<kbd> CTRL + 1 </kbd>
 
- - CMD + 1
+<kbd> CMD + 1 </kbd>
 
 
 Zoom In:  
  
- - CTRL + (+)
+<kbd> CTRL </kbd> + <kbd> + </kbd> 
 
- - CMD + (+)
+<kbd> CMD </kbd> + <kbd> + </kbd>
 
 
 Zoom Out:  
  
- - CTRL + (-)
+<kbd> CTRL </kbd> + <kbd> - </kbd> 
 
- - CMD + (-)
+<kbd> CMD </kbd> + <kbd> - </kbd>
 
 
 Move Layer:  
 
- - SPACER + Click
+<kbd> SPACER + Click </kbd>
 
 
 Change Canvas Size
 
- - Alt + CMD 
+<kbd> Alt + CMD </kbd>
  
- - Alt + Ctrl
+<kbd> Alt + Ctrl </kbd>
 
 
 Change Image Size
 
- - Alt + CMD + i
+<kbd> Alt + CMD + i </kbd>
  
- - Alt + Ctrl + i
+<kbd> Alt + Ctrl + i </kbd>
 
 
 Hidden tools:  
  
 
- - Tab
+<kbd> Tab </kbd>
 
 
 Hidden others layer
  
 
- - Alt + Click (on eye icon layer)
+<kbd> Alt + Click </kbd> (on eye icon layer)
   
 
 
@@ -93,13 +95,13 @@ Hidden others layer
 Select size object on layer
  
 
- - CMD + Click (on object layer)
+<kbd> CMD + Click </kbd> (on object layer)
 
 
 Save for web: 
  
- - Ctrl + Alt + Shift + S
- - CMD + Alt + Shift + S
+<kbd> Ctrl + Alt + Shift + S </kbd>
+<kbd> CMD + Alt + Shift + S </kbd>
 
 ________________
 
@@ -110,7 +112,7 @@ ________________
 Settings:
 Edit > Keyboard Shortcuts 
  
- (Shift + Alt + Ctrl + K) 
+<kbd> Shift + Alt + Ctrl + K </kbd> 
 
- (Shift + Alt + CMD + K)
+<kbd> Shift + Alt + CMD + K </kbd>
 
