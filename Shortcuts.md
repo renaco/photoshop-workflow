@@ -1,11 +1,11 @@
 PSD Shortcut
 =========
 
-### Keyboard shortcuts that save us time 
+#### Keyboard shortcuts that save us time 
 
 Set select cursor by default
 
-Normal Shortcuts:
+##### Normal Shortcuts:
 
 Action | Windows | Mac 
 ---- | ---- | ----
@@ -28,10 +28,10 @@ Save for web: | <kbd> Ctrl + Alt + Shift + S </kbd> | <kbd> CMD + Alt + Shift + 
 ________________
 
 
-Settings:
-Edit > 
-
+##### Settings:
+For customize your own shortcuts
 
 Action | Windows | Mac 
+---- | ---- | ----
 Keyboard Shortcuts Settings | <kbd> Shift + Alt + Ctrl + K </kbd> | <kbd> Shift + Alt + CMD + K </kbd>
 
