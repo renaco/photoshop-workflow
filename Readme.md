@@ -24,9 +24,7 @@ Usage
   - Give a name for the asset
 
 
-
 Spanish
-
 
 Acciones para cortar imagenes
   - Descargar workflow.atn
