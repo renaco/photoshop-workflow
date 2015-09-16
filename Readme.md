@@ -1,7 +1,7 @@
 PSD Workflow
 =========
 
-Actions for Cut image
+Actions for cut image
 
   - Download workflow.atn 
   - Double click for load worklflow.atn 
