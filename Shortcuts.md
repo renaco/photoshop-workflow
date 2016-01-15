@@ -1,37 +1,37 @@
 PSD Shortcut
 =========
 
-#### Keyboard shortcuts that save us time 
+#### Keyboard shortcuts that save us time
 
 Set select cursor by default
 
 ##### Normal Shortcuts:
 
-Action | Windows | Mac 
+Action | Windows | Mac
 ---- | ---- | ----
-Open File(s): | <kbd> Ctrl + O </kbd> | <kbd> CMD + O </kbd>
-Hidden Extras: | <kbd> Ctrl + H </kbd> | <kbd> CMD + H </kbd>
+Open file(s): | <kbd>Ctrl</kbd> + <kbd>O</kbd> | <kbd>CMD</kbd> + <kbd>O</kbd>
+Hidden extras: | <kbd>Ctrl</kbd> + <kbd>H</kbd> | <kbd> CMD </kbd> + <kbd> H </kbd>
 Cursor:  | <kbd> V </kbd> |
 Slice: | <kbd> C </kbd> |
-Change to slice: | <kbd> SHIFT + C </kbd> |
-Zoom 100%: | <kbd> CTRL + 1 </kbd> | <kbd> CMD + 1 </kbd>
-Zoom In: | <kbd> CTRL </kbd> + <kbd> + </kbd> | <kbd> CMD </kbd> + <kbd> + </kbd>
-Zoom Out:  | <kbd> CTRL </kbd> + <kbd> - </kbd> | <kbd> CMD </kbd> + <kbd> - </kbd>
-Move Layer: | <kbd> SPACER + Click </kbd> 
-Change Canvas Size | <kbd> Alt + CMD </kbd> | <kbd> Alt + Ctrl </kbd>
-Change Image Size | <kbd> Alt + CMD + i </kbd> | <kbd> Alt + Ctrl + i </kbd>
+Change to slice: | <kbd> SHIFT </kbd> + <kbd> C </kbd> |
+Zoom 100%: | <kbd> CTRL </kbd> + <kbd> 1 </kbd> | <kbd> CMD </kbd> + <kbd> 1 </kbd>
+Zoom in: | <kbd> CTRL </kbd> + <kbd> + </kbd> | <kbd> CMD </kbd> + <kbd> + </kbd>
+Zoom out:  | <kbd> CTRL </kbd> + <kbd> - </kbd> | <kbd> CMD </kbd> + <kbd> - </kbd>
+Move layer with hand: | <kbd> SPACER </kbd> + <kbd> Click </kbd>
+Change canvas size | <kbd> Alt </kbd> + <kbd> CMD </kbd> | <kbd> Alt </kbd> + <kbd> Ctrl </kbd>
+Change image size | <kbd> Alt </kbd> + <kbd> CMD </kbd> + <kbd> i </kbd> | <kbd> Alt </kbd> + <kbd> Ctrl </kbd> + <kbd> i </kbd>
 Hidden tools: | <kbd> Tab </kbd>
-Hidden others layer | <kbd> Alt + Click </kbd> (on eye icon layer)
-Select size object on layer | <kbd> CMD + Click </kbd> (on object layer)
-Save for web: | <kbd> Ctrl + Alt + Shift + S </kbd> | <kbd> CMD + Alt + Shift + S </kbd>
+Hidden others layer | <kbd> Alt </kbd> + <kbd> Click </kbd> (on eye icon layer)
+Select size object on layer | <kbd> CMD </kbd> + <kbd> Click </kbd> (on object layer)
+Save for web: | <kbd> Ctrl </kbd> + <kbd> Alt </kbd> + <kbd> Shift </kbd> + <kbd> S </kbd> | <kbd> CMD </kbd> + <kbd> Alt </kbd> + <kbd> Shift </kbd> + <kbd> S </kbd>
 
 ________________
 
 
 ##### Settings:
-For customize your own shortcuts
+For customize your own shortcuts.
 
-Action | Windows | Mac 
+Action | Windows | Mac
 ---- | ---- | ----
-Keyboard Shortcuts Settings | <kbd> Shift + Alt + Ctrl + K </kbd> | <kbd> Shift + Alt + CMD + K </kbd>
-
+Keyboard shortcuts settings | <kbd> Shift </kbd> + <kbd> Alt </kbd> + <kbd> Ctrl </kbd> + <kbd> K </kbd> | <kbd> Shift </kbd> + <kbd> Alt </kbd> + <kbd> CMD </kbd> + <kbd> K </kbd>
+Search tab custom shortcut for setup your custom.
