@@ -1,4 +1,4 @@
-PSD Workflow
+Photoshop Workflow for Front-End
 =========
 
 Actions for cut image
